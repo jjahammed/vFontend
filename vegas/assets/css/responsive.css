@@ -1,0 +1,36 @@
+@media only screen and (max-width: 480px) {
+  .hero-sec-pair-btn {
+    display: flex;
+  }
+  .get-stardet-btn {
+    width: 140px;
+  }
+  .leran-more-btn {
+    width: 140px;
+    margin-left: 14px;
+  }
+  .hero-text {
+    text-align: center;
+  }
+  .digital-br {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .brands-sec ul {
+    display: flex;
+  }
+  .brands-sec {
+    margin-left: -65px;
+  }
+  .vegasweb-img {
+  }
+}
+@media only screen and (min-width: 820px) {
+  .brands-sec {
+    margin-left: 50px;
+  }
+  .vegasweb-img {
+    width: 75% !important;
+  }
+}
